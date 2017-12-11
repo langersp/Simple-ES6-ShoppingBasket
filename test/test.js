@@ -5,7 +5,7 @@ import {pricingRules} from '../js/pricingRules';
 
 let expect = chai.expect;
 
-describe('ACME Supermarket Basket', function() {
+describe('Supermarket Basket', function() {
 
 	describe('Initial Basket', function() {
 		it('should start empty', function() {
